@@ -1,0 +1,25 @@
+utils/BaseClient.java
+ utils.BaseClient
+popcorn/GetPromotionCodeEndPointLink.java
+ popcorn.GetPromotionCodeEndPointLink
+utils/IServiceEndpoint.java
+ utils.IServiceEndpoint
+utils/RequestBody.java
+ utils.RequestBody
+utils/TestHelper.java
+ utils.TestHelper
+utils/HttpMethod.java
+ utils.HttpMethod
+utils/ServiceClient.java
+ utils.ServiceClient
+utils/RequestHandler.java
+ utils.RequestHandler
+ utils.RequestHandler$1
+utils/CurlBuilder.java
+ utils.CurlBuilder
+utils/PropertiesReader.java
+ utils.PropertiesReader
+utils/Param.java
+ utils.Param
+utils/PopcornProperties.java
+ utils.PopcornProperties
